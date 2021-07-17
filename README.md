@@ -27,7 +27,7 @@
 - **Estrella Vilca James Kevin** - _GitHub Account_ - [James](https://github.com/JamesKevinStar)
 - **Huamani Surco Grober Albert** - _GitHub Account_ - [Grober](https://github.com/Grober976)
 - **Mamani Quinta Michael Antonni** - _GitHub Account_ - [MichaelAntonni](https://github.com/Michael-Antonni)
-- **Lazo Mendoza Jeremy Axel** - _GitHub Account_ - [Jeremy](https://github.com/Jeremylazm)
+- **Lazo Mendoza Jeremy Axl** - _GitHub Account_ - [Jeremy](https://github.com/Jeremylazm)
 - **Pumayalli Cusicuna Frank Edison** - _GitHub Account_ - [Frank](https://github.com/frankpumacusi)
 - **Yupanqui Carrillo Holger Alfredo** - _GitHub Account_ - [Holger](https://github.com/holgeryc)
 - **Quispe Ynga Callañaupa Luis Angel**- _GitHub Account_ - [Luis](https://github.com/luis1128)
