@@ -5,8 +5,8 @@
 ### Datos Academicos 📖
 
 - **Institucion:** Universidad Nacional de San Antonio Abad del Cusco
-- **Facultad:** Facultad de ingenieria electrica, electronica, informatica y mecanica
-- **Escuela Prof:** Ingenieria Informatica y de Sistemas
+- **Facultad:** Facultad de Ingeniería Eléctrica, Electrónica, Informática y Mecánica
+- **Escuela Prof:** Ingeniería Informática y de Sistemas
 
 #### Docente:
 
@@ -14,10 +14,10 @@
 
 #### Trabajo:
 
-- Realizar un CRUD para un sistemas de turorias en la universidad UNSAAC
+- Realizar un CRUD para un Sistemas de Turorías en la universidad UNSAAC.
 
 ## Descripcion
--el sistema de tutorias es un programa para la facilitacion de la organizacion y distribucion de docentes para asignar un tutor para cada semestre académico.
+- El Sistema de Tutorías es un programa para la facilitación de la organización y distribución de docentes para asignar un tutor para cada semestre académico.
 
 #### Autores:✒️
 
@@ -33,7 +33,7 @@
 - **Quispe Ynga Callañaupa Luis Angel**- _GitHub Account_ - [Luis](https://github.com/luis1128)
 ---
 
-NOTA: Diculpe las faltas ortograficas tales como tildes, dieresis y demas faltas encontradas a lo largo del cuaderno, esto se debe a que se uso unicamente una distribucion de teclado en ingles para escribir el presente el cual no tiene acceso a dichos caracteres.
+NOTA: Diculpe las faltas ortográficas tales como tildes, diéresis y demás faltas encontradas a lo largo del cuaderno, esto se debe a que se uso únicamente una distribución de teclado en inglés para escribir el presente el cual no tiene acceso a dichos caracteres.
 
 ## Empezamos... 🚀
 
