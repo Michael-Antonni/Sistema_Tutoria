@@ -1,0 +1,21 @@
+#view branch
+git branch
+
+#view state
+git status
+
+#Create_branch
+git checkout <name_branch>
+
+
+
+#Clone 
+git clone "URL_GITHUB"
+
+#SUBIR
+git add .
+git commit -m "comentario"
+git push
+
+#BAJAR
+git pull 
